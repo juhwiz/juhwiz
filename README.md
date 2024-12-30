@@ -12,7 +12,7 @@ Sou nova aqui, então se tiverem dicas para meu repositórios ou para meu perfil
 - MySql
 
   
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=juhwiz&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
 ### **Onde me encontrar?**
