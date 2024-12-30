@@ -17,7 +17,7 @@ Sou nova aqui, então se tiverem dicas para meu repositórios ou para meu perfil
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?pinusername=juhwiz&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=juhwiz&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
