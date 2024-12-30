@@ -11,6 +11,10 @@ Sou nova aqui, então se tiverem dicas para meu repositórios ou para meu perfil
 - JUnit
 - MySql
 
+  
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
 ### **Onde me encontrar?**
 
 <a href="https://www.linkedin.com/in/julia-sim%C3%A3o-de-almeida-cruz-1a8a46199/" target="Linkedin">Linkedin</a>
