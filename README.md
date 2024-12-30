@@ -6,6 +6,7 @@ Sou nova aqui, então se tiverem dicas para meu repositórios ou para meu perfil
 
 ### **Principais tecnologias :woman_technologist:**
 - JavaScript
+- Java
 - Spring Boot
 - Restful Api
 - JUnit
