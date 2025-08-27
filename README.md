@@ -18,7 +18,7 @@ Sou nova aqui, então se tiverem dicas para meu repositórios ou para meu perfil
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juhwiz&repo=Atividade-compass5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juhwiz&repo=Ailurus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens Utilizadas 
 
