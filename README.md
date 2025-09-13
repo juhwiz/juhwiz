@@ -6,10 +6,12 @@ Sou nova aqui, então se tiverem dicas para meu repositórios ou para meu perfil
 
 ### **Principais tecnologias :woman_technologist:**
 - JavaScript
-- Java
-- Spring Boot
+- HTML/CSS
+- React.js
+- Node.js
+- Express
 - Restful Api
-- JUnit
+- Sql
 - MySql
 
 ### Detalhes
